@@ -1,0 +1,44 @@
+{
+  "Header": {
+    "title": "An application",
+    "paragraph": "that builds your future."
+  },
+  "About": {
+    "paragraph": "We are in edtech and fintech market. We provide the credit cards to the students and teach them the financial literacy. \nBecause in India financial literacy is very low. We are giving the tools to the students and teach them how to manage theirs expenses, how to save money,money management,cash flows, etc.",
+    "Why": [
+      "We are in edtech and fintech market",
+      "We provide the credit cards to the students and teach them the financial literacy",
+      "Because in India financial literacy is very low"
+    ]
+  },
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "BDA Outer Ring Road, Navarbhavi, Mallathalli - 560056",
+    "phone": "+91 8217570031",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
